@@ -9,4 +9,3 @@
 <!-- markdownlint-enable MD033 -->
 
 This project is a Clickhouse input connector for [Bytewax](https://github.com/bytewax/bytewax).
-
