@@ -1,4 +1,4 @@
-# Bytewax HTTP Connector
+# Bytewax Clickhouse Connector
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/6073079/195393689-7334098b-a8cd-4aaa-8791-e4556c25713e.png" width="350">
@@ -6,5 +6,5 @@
   <img alt="Bytewax">
 </picture>
 
-This project is a clickhouse input connector for [Bytewax](https://github.com/bytewax/bytewax).
+This project is a Clickhouse input connector for [Bytewax](https://github.com/bytewax/bytewax).
 
