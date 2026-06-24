@@ -117,7 +117,7 @@ dependencies = [
 [project.optional-dependencies] # Optional
 dev = [
     "check-manifest==0.51",
-    "black==26.3.1",    
+    "black==26.5.1",    
     "pre-commit>=4.6.0",
     "pytest==9.0.3",
     "tox==4.6.3",
