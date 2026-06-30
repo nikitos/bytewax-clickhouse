@@ -103,7 +103,7 @@ classifiers = [  # Optional
 # https://packaging.python.org/discussions/install-requires-vs-requirements/
 dependencies = [
   "bytewax==0.21.1",
-  "clickhouse_connect==0.15.1",
+  "clickhouse_connect==1.4.0",
 ]
 
 # List additional groups of dependencies here (e.g. development
