@@ -118,7 +118,7 @@ dependencies = [
 dev = [
     "check-manifest==0.51",
     "black==26.3.1",    
-    "pre-commit>=4.6.0",
+    "pre-commit>=4.6.1",
     "pytest==9.0.3",
     "tox==4.6.3",
     "sphinx<7",
